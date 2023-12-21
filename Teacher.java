@@ -1,0 +1,3 @@
+Class Teacher {
+  int id;
+}
